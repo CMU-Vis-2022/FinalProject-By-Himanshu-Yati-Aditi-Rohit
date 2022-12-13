@@ -20,8 +20,6 @@ food wisely.
 
 **Web Page Link:** https://animated-meringue-6c866a.netlify.app/
 
-**Commentary on the project process:** (?)
-
 
 
 **Data Sources are as follows:** 
