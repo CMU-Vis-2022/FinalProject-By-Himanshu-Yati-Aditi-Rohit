@@ -15,7 +15,10 @@ Data shows that humans at the individual level can make a huge impact on climate
 food wisely.
 
 **Link to paper:** (?)
+
 **Link to video:** (?)
+
 **Web Page Link:** (?)
+
 **Commentary on the project process:** (?)
 
