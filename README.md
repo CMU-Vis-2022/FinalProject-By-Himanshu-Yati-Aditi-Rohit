@@ -16,7 +16,7 @@ food wisely.
 
 **Link to paper:** https://docs.google.com/document/d/1dGLGwhb_QvS6ARIWmEnBHiknHNJ4Imjg/edit?usp=sharing&ouid=113163451910125023573&rtpof=true&sd=true
 
-**Link to video:** (?)
+**Link to video:** https://drive.google.com/file/d/1Hltyg-eZ-MCOs1Ca6Ob5g7DD8J1xKL8G/view?usp=sharing
 
 **Web Page Link:** https://animated-meringue-6c866a.netlify.app/
 
