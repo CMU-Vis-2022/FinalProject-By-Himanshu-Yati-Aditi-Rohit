@@ -14,7 +14,7 @@ climate change and spread awareness about the same, more light must be shed on t
 Data shows that humans at the individual level can make a huge impact on climate change by choosing their 
 food wisely.
 
-**Link to paper:** (?)
+**Link to paper:** https://docs.google.com/document/d/1dGLGwhb_QvS6ARIWmEnBHiknHNJ4Imjg/edit?usp=sharing&ouid=113163451910125023573&rtpof=true&sd=true
 
 **Link to video:** (?)
 
