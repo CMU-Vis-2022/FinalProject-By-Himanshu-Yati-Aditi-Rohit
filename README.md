@@ -22,7 +22,9 @@ food wisely.
 
 **Commentary on the project process:** (?)
 
-**Data Sources:** 
+
+
+**Data Sources Are as follows:** 
 
 Climate, Population, and CO2 Data: Berkeley Earth (https://berkeleyearth.org/data/), World Data (https://www.worlddata.info/), Scripps CO2  Program (https://scrippsco2.ucsd.edu/)
 
