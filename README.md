@@ -4,7 +4,7 @@ Data Visualization Final Project
 One data-set was quite large in size so Github did not allow to push it. Please download that data-set from this link (https://drive.google.com/file/d/1-M8HN6ZvMgTD-TFTTtf-f2E7u6eLccIX/view?usp=sharing) and copy it in the data-sets folder and then run the Jupyter Notebook.
 
 
-**Title:** 'Ripple Effect' - "Choose Your Food Wisely"
+**Title:** Ripple Effect - Choose Your Food Wisely
 
 **Team:** Himanshu Kohli, Yati Agrawal, Aditi Awasthy, and Rohit Khattar
 
